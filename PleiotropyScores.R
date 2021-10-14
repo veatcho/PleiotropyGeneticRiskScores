@@ -1,3 +1,5 @@
+# Author: Olivia Veatch
+
 library(tidyverse)
 #Load clean (QCd) WES data
 WESData <- readRDS('./SSCdata/AllPDVsinSSC_QCdataset_recent.rds')
